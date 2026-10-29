@@ -1,6 +1,6 @@
 --- 
 title: "how to make a github repository 2026"
-author: "Faculty: Esahar parto"
+author: "Faculty: sahar parto"
 date: "30-31 october"
 site: bookdown::bookdown_site
 documentclass: book
@@ -18,7 +18,7 @@ favicon: img/favicon.ico
 
 # Workshop Info
 
-Welcome to the 2026 how to make a github repository Canadian Bioinformatics Workshop webpage!  
+please make the info visible
 
 ## Pre-work
 
